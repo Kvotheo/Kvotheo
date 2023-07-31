@@ -1,4 +1,3 @@
-# 💫 About Me:
 👋 Olá, mundo!<br><br>Sou um estudante de programação apaixonado por tecnologia e desenvolvimento. <br><br>🌱 Tecnologias:<br>Estou familiarizado com várias tecnologias, incluindo JavaScript, React e MySQL. Estou sempre aberto a aprender novas ferramentas e tecnologias para aprimorar meu conjunto de habilidades.<br><br>🚀 Projetos:<br>Aqui no meu GitHub, você encontrará alguns dos meus projetos pessoais. Estou constantemente trabalhando em novos desafios e experimentando ideias.<br><br>📚 Educação:<br>Atualmente, estou cursando Sistemas de Informação na Univale e buscando oportunidades para aplicar meus conhecimentos teóricos em projetos do mundo real.
 
 
